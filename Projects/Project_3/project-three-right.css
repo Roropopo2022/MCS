@@ -1,0 +1,35 @@
+.header, .footer {
+    padding: 80px;
+  }
+  
+  .yellow {
+    background-color: #E5E000;
+  }
+  
+  .image {
+    height: 1080px;
+  
+    background-image: url(../Project_3/images-for-project/img.jpg); /* Путь к картинке */
+    background-size: cover;
+  }
+  
+  .links {
+    padding: 35px 80px;
+  }
+  
+  .links p {
+    color: #ffffff;
+  }
+  
+  .about {
+    padding: 105px 80px;
+  }
+  
+  .about h2 {
+    margin-bottom: 50px;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-between;
+  }
