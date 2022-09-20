@@ -8,7 +8,7 @@
 
 
 body {
-    height: 2700px;
+
 }
 
 
@@ -101,6 +101,8 @@ h2 {
 .add-img {
     display: flex;
     justify-content: space-around;
+    width: 1040px;
+    margin: 0 auto;
 }
 
 .img {
